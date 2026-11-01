@@ -1,3 +1,4 @@
+# KR2: Zolotov
 import os
 import socket
 
